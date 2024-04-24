@@ -1,2 +1,2 @@
-# Image-Classification-with-Multilayer-Perceptron
-Image Classification with Multilayer Perceptron
+# Music Genre Classification with Convolutional Neural Network
+
